@@ -17,7 +17,7 @@ Er umfasst über 5.000 manuell annotierte Sätze, in denen die emotionalen Inhal
 
 
 ## Sprachmodell / Interface
-- **Modell:** GPT-4 über die von OpenAI bereitgestellte API
+- **Modell:** GPT-4 über die von OpenAI bereitgestellte Schnittstelle.
 
 ## Experimentdesign
 Das Projekt umfasst die Nutzung von GPT-4 zur Annotation der einzelnen Märchentexte aus dem *ChildTale-A* Datensatz. 
