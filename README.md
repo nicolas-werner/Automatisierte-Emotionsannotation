@@ -30,8 +30,7 @@ Basierend auf der Annotationsrichtlinie des Datensatzes, könnte eine Annotation
 | --- | --- | --- |
 | Die Frau hatte zwei Töchter mit ins Haus gebracht, die schön und weiß von Angesicht waren, aber garstig und schwarz von Herzen. | Valenz | -2 (Negativ) <br> *Begründung:* Negatives inneres Wesen der Figuren. |
 |  | Arousal | 2 (Etwas ruhig) <br> *Begründung:* Beschreibend, ruhig, ohne direkte emotionale Erregung. |
-|  | Emotions-zuschreibung | Wem: Den Stiefschwestern; <br> Wer: Die Erzählinstanz |
-|  | AnnotatorIn Kürzel | S.M. (Sprachmodell) |
+
 
 
 
