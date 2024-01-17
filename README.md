@@ -1,5 +1,5 @@
-# Automatisierte-Emotionsannotation-mit-GPT4
-Automatisierte Emotionsannotation im ChildTale-A Corpus mit GPT-4 im Rahmen des Seminars [Annotation mit Sprachmodellen]( https://lehre.idh.uni-koeln.de/lehrveranstaltungen/wintersemester-2023-2024/sprachmodelle-1/) im WS 23/24 der Universität zu Köln.
+# Automatisierte-Emotionsannotation-mit-GPT3.5
+Automatisierte Emotionsannotation im ChildTale-A Corpus mit GPT3.5 im Rahmen des Seminars [Annotation mit Sprachmodellen]( https://lehre.idh.uni-koeln.de/lehrveranstaltungen/wintersemester-2023-2024/sprachmodelle-1/) im WS 23/24 der Universität zu Köln.
 
 
 ## Annotationsaufgabe
